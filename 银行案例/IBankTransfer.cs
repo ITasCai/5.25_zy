@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace 银行案例
 {
-    interface IBankTransfer:IBankAccount
+    interface IBankTransfer
     {
         /// <summary>
         /// 转账

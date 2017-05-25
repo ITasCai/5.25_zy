@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace 银行案例
 {
-    class SaverAccoun : IBankTransfer
+    class SaverAccoun : IBankAccount
     {
 
         private string AccountName { set; get; }
